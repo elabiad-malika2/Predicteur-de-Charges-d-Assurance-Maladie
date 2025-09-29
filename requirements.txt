@@ -20,7 +20,5 @@ joblib>=1.2.0
 jupyter>=1.0.0
 pytest>=7.0.0
 black>=22.0.0
-flake8>=5.0.0
 
-# Optionnel pour Flask
-flask>=2.2.0
+
